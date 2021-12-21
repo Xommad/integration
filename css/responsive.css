@@ -1,6 +1,6 @@
 @media (max-width: 900px) {
     body {
-        height: 1300px;
+        height: auto;
     }
     #title-text {
         font-size: 33px;
@@ -34,7 +34,7 @@
 
     #integration-durch-bildung-div {
         width: 370px;
-        height: 630px;
+        height: 690px;
         top: 225%;
     }
     #integration-durch-bildung-pic {
@@ -42,32 +42,55 @@
         width: 83%;
     }
     #integration-durch-bildung-pic-link{
-        top: 37%;
+        top: 43%;
         left: 40%;
     }
 
     #integration-durch-bildung-title-text {
         text-align: center;
-        top: 41%;
+        top: 44%;
         left: 0%;
     }
 
     #integration-durch-bildung-text {
-        top: 55%;
+        top: 60%;
         left: 5%;
     }
 }
 
-@media (max-height: 400px) {
-
+@media (max-height: 620px) and (max-width: 600px) {
     #integration-durch-bildung-div {
-        top: 210%;
+        top: 240%;
     }
 }
 
-@media (max-height: 600px) {
-
+@media (max-height: 540px) and (max-width: 600px) {
     #integration-durch-bildung-div {
-        top: 200%;
+        top: 260%;
+    }
+}
+
+
+@media (max-height: 480px) and (max-width: 600px) {
+    #integration-durch-bildung-div {
+        top: 280%;
+    }
+}
+
+@media (max-height: 440px) and (max-width: 600px) {
+    #integration-durch-bildung-div {
+        top: 300%;
+    }
+}
+
+@media (max-height: 380px) and (max-width: 600px) {
+    #integration-durch-bildung-div {
+        top: 320%;
+    }
+}
+
+@media (max-height: 360px) and (max-width: 600px) {
+    #integration-durch-bildung-div {
+        top: 360%;
     }
 }
