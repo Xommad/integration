@@ -1,4 +1,7 @@
 @media (max-width: 900px) {
+    body {
+        height: 2300px;
+    }
     #title-text {
         font-size: 33px;
     }
