@@ -1,6 +1,6 @@
 @media (max-width: 900px) {
     body {
-        height: 2300px;
+        height: 1300px;
     }
     #title-text {
         font-size: 33px;
@@ -35,7 +35,7 @@
     #integration-durch-bildung-div {
         width: 370px;
         height: 630px;
-        top: 210%;
+        top: 215%;
     }
     #integration-durch-bildung-pic {
         top: 2.5%;
@@ -55,5 +55,19 @@
     #integration-durch-bildung-text {
         top: 55%;
         left: 5%;
+    }
+}
+
+@media (max-height: 400px) {
+
+    #integration-durch-bildung-div {
+        top: 230%;
+    }
+}
+
+@media (max-height: 600px) {
+
+    #integration-durch-bildung-div {
+        top: 190%;
     }
 }
