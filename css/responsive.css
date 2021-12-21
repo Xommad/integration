@@ -35,7 +35,7 @@
     #integration-durch-bildung-div {
         width: 370px;
         height: 630px;
-        top: 215%;
+        top: 225%;
     }
     #integration-durch-bildung-pic {
         top: 2.5%;
@@ -61,7 +61,7 @@
 @media (max-height: 400px) {
 
     #integration-durch-bildung-div {
-        top: 240%;
+        top: 210%;
     }
 }
 
