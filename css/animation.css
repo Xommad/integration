@@ -1,0 +1,80 @@
+@keyframes underlinecolor {
+    0% {
+        text-decoration-color: #1E212B;
+    }
+
+    14% {
+        text-decoration-color: #4D8B31;
+        
+    }
+    28% {
+        text-decoration-color: #FFC800;
+    }
+    42% {
+        text-decoration-color: #FF8427;
+    }
+    60% {
+        text-decoration-color: #2176AE;
+        
+    }
+    78% {
+        text-decoration-color: #B66D0D;
+    }
+    96% {
+        text-decoration-color: #220C10;
+        
+    }
+}
+
+@keyframes underlinecolorinfo {
+    0% {
+        text-decoration-color: #fff;
+    }
+
+    50% {
+        text-decoration-color: rgba(255, 255, 255, 0.500);
+    }
+
+    100% {
+        text-decoration-color: #fff;
+    }
+}
+
+@keyframes slideup {
+    0% {
+        top: 60%;
+    } 
+
+    50% {
+        top: 25%;
+    }
+
+    100% {
+        top: 30%;
+    }
+}
+
+@keyframes progressbarcolor {
+    0% {
+        background-color: #1E212B;
+    }
+    14% {
+        background-color: #4D8B31;
+        
+    }
+    28% {
+        background-color: #FFC800;
+    }
+    42% {
+        background-color: #FF8427;
+    }
+    60% {
+        background-color: #2176AE;
+    }
+    78% {
+        background-color: #B66D0D;
+    }
+    96% {
+        background-color: #220C10;
+    }
+}

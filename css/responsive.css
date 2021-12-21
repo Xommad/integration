@@ -1,0 +1,56 @@
+@media (max-width: 900px) {
+    #title-text {
+        font-size: 33px;
+    }
+    #title-div:hover {
+        width: max-content;
+    }
+
+    #integrationskurse-div {
+        width: 370px;
+        height: 800px;
+    }
+    #integrationskurse-pic {
+        top: 2.5%;
+        width: 83%;
+    }
+    #pic-link {
+        top: 46%;
+        left: 15%;
+    }
+    #integrationskurse-title-text {
+        top: 50%;
+        left: 15%;
+    }
+    #integrationskurserklart-text {
+        top: 58%;
+        left: 5%;
+    }
+    
+    /* second block */
+
+    #integration-durch-bildung-div {
+        width: 370px;
+        height: 630px;
+        top: 210%;
+    }
+    #integration-durch-bildung-pic {
+        top: 2.5%;
+        width: 83%;
+    }
+    #integration-durch-bildung-pic-link{
+        top: 37%;
+        left: 40%;
+    }
+
+    #integration-durch-bildung-title-text {
+        text-align: center;
+        top: 41%;
+        left: 0%;
+    }
+
+    #integration-durch-bildung-text {
+        top: 55%;
+        left: 5%;
+    }
+}
